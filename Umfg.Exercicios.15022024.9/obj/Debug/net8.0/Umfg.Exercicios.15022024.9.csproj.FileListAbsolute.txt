@@ -1,0 +1,15 @@
+C:\Users\user\source\repos\Umfg.Exercicios.15022024\Umfg.Exercicios.15022024.9\bin\Debug\net8.0\Umfg.Exercicios.15022024.9.exe
+C:\Users\user\source\repos\Umfg.Exercicios.15022024\Umfg.Exercicios.15022024.9\bin\Debug\net8.0\Umfg.Exercicios.15022024.9.deps.json
+C:\Users\user\source\repos\Umfg.Exercicios.15022024\Umfg.Exercicios.15022024.9\bin\Debug\net8.0\Umfg.Exercicios.15022024.9.runtimeconfig.json
+C:\Users\user\source\repos\Umfg.Exercicios.15022024\Umfg.Exercicios.15022024.9\bin\Debug\net8.0\Umfg.Exercicios.15022024.9.dll
+C:\Users\user\source\repos\Umfg.Exercicios.15022024\Umfg.Exercicios.15022024.9\bin\Debug\net8.0\Umfg.Exercicios.15022024.9.pdb
+C:\Users\user\source\repos\Umfg.Exercicios.15022024\Umfg.Exercicios.15022024.9\obj\Debug\net8.0\Umfg.Exercicios.15022024.9.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\Umfg.Exercicios.15022024\Umfg.Exercicios.15022024.9\obj\Debug\net8.0\Umfg.Exercicios.15022024.9.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\Umfg.Exercicios.15022024\Umfg.Exercicios.15022024.9\obj\Debug\net8.0\Umfg.Exercicios.15022024.9.AssemblyInfo.cs
+C:\Users\user\source\repos\Umfg.Exercicios.15022024\Umfg.Exercicios.15022024.9\obj\Debug\net8.0\Umfg.Exercicios.15022024.9.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Umfg.Exercicios.15022024\Umfg.Exercicios.15022024.9\obj\Debug\net8.0\Umfg.Exercicios.15022024.9.sourcelink.json
+C:\Users\user\source\repos\Umfg.Exercicios.15022024\Umfg.Exercicios.15022024.9\obj\Debug\net8.0\Umfg.Exercicios.15022024.9.dll
+C:\Users\user\source\repos\Umfg.Exercicios.15022024\Umfg.Exercicios.15022024.9\obj\Debug\net8.0\refint\Umfg.Exercicios.15022024.9.dll
+C:\Users\user\source\repos\Umfg.Exercicios.15022024\Umfg.Exercicios.15022024.9\obj\Debug\net8.0\Umfg.Exercicios.15022024.9.pdb
+C:\Users\user\source\repos\Umfg.Exercicios.15022024\Umfg.Exercicios.15022024.9\obj\Debug\net8.0\Umfg.Exercicios.15022024.9.genruntimeconfig.cache
+C:\Users\user\source\repos\Umfg.Exercicios.15022024\Umfg.Exercicios.15022024.9\obj\Debug\net8.0\ref\Umfg.Exercicios.15022024.9.dll

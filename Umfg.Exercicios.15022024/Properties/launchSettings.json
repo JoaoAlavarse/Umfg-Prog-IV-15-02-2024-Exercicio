@@ -1,0 +1,11 @@
+{
+  "profiles": {
+    "Umfg.Exercicios.15022024": {
+      "commandName": "Project"
+    },
+    "WSL": {
+      "commandName": "WSL2",
+      "distributionName": ""
+    }
+  }
+}
